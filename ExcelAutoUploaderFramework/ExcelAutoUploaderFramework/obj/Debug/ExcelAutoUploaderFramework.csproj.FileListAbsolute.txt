@@ -1,0 +1,13 @@
+D:\upload_excel\ExcelAutoUploaderFramework\ExcelAutoUploaderFramework\bin\Debug\ExcelAutoUploaderFramework.exe.config
+D:\upload_excel\ExcelAutoUploaderFramework\ExcelAutoUploaderFramework\bin\Debug\ExcelAutoUploaderFramework.exe
+D:\upload_excel\ExcelAutoUploaderFramework\ExcelAutoUploaderFramework\bin\Debug\ExcelAutoUploaderFramework.pdb
+D:\upload_excel\ExcelAutoUploaderFramework\ExcelAutoUploaderFramework\bin\Debug\CloudinaryDotNet.dll
+D:\upload_excel\ExcelAutoUploaderFramework\ExcelAutoUploaderFramework\bin\Debug\Newtonsoft.Json.dll
+D:\upload_excel\ExcelAutoUploaderFramework\ExcelAutoUploaderFramework\bin\Debug\CloudinaryDotNet.xml
+D:\upload_excel\ExcelAutoUploaderFramework\ExcelAutoUploaderFramework\bin\Debug\Newtonsoft.Json.xml
+D:\upload_excel\ExcelAutoUploaderFramework\ExcelAutoUploaderFramework\obj\Debug\ExcelAutoUploaderFramework.csproj.AssemblyReference.cache
+D:\upload_excel\ExcelAutoUploaderFramework\ExcelAutoUploaderFramework\obj\Debug\ExcelAutoUploaderFramework.csproj.ResolveComReference.cache
+D:\upload_excel\ExcelAutoUploaderFramework\ExcelAutoUploaderFramework\obj\Debug\ExcelAutoUploaderFramework.csproj.CoreCompileInputs.cache
+D:\upload_excel\ExcelAutoUploaderFramework\ExcelAutoUploaderFramework\obj\Debug\ExcelAut.BC840390.Up2Date
+D:\upload_excel\ExcelAutoUploaderFramework\ExcelAutoUploaderFramework\obj\Debug\ExcelAutoUploaderFramework.exe
+D:\upload_excel\ExcelAutoUploaderFramework\ExcelAutoUploaderFramework\obj\Debug\ExcelAutoUploaderFramework.pdb
